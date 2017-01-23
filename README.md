@@ -12,3 +12,5 @@ here is a `code sample`
 ```
 <div class="code_block"></div>
 ```
+
+User **Control + Shift + M** to open preview in Atom.
