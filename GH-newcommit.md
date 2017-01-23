@@ -8,29 +8,13 @@
 - _ Make a change on the README.md file in your newly cloned directory by using Atom._
 
 
-1. In your terminal Type:
-```
-atom README.md
-```
+1. In your terminal Type `atom README.md`
 This opens README.md in Atom.
-2. In your terminal Type:
-```
-git status
-```
+2. In your terminal Type `git status`
 Lists all new or modified files to be commited.
-3. You should see this in your terminal:
-```
-	modified:   README.md
-```
-This means that Git has noticed your change on the file README.md.
-4. In your terminal Type:
-```
-git add .
-```
-Snapshots all the files in preparation for versioning or
-```
-$ git add [file]
-```
+3. You should see this in your terminal `modified:   README.md` This means that Git has noticed your change on the file README.md.
+4. In your terminal Type `git add .`
+Snapshots all the files in preparation for versioning or`$ git add [file]`. This code means:
 Snapshots the file in preparation for versioning. You can choose to type in your terminal `git status` to see if your changes has been added to staging. If they have been added, you should see feedback of
 ```
 On branch master
@@ -46,13 +30,10 @@ git commit -m"Added description to README.md to indicate the purpose of this rep
 ```
 Records file snapshots permanently in version history. Think about this as setting a milestone for your project.
 
-6. In your terminal Type:
-```
-git push origin master
-```
+6. In your terminal Type `git push origin master`.
 Find a ref that matches master in the source repository, and update the same ref in origin repository with it. If master did not exist remotely, it would be created.
 
-7. Now goto your GitHub repository and refresh. You should see your new commit. 
+7. Now go to your GitHub repository and refresh. You should see your new commit.
 
 
 
