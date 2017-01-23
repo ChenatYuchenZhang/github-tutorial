@@ -14,21 +14,11 @@ This opens README.md in Atom.
 Lists all new or modified files to be commited.
 3. You should see this in your terminal `modified:   README.md` This means that Git has noticed your change on the file README.md.
 4. In your terminal Type `git add .`
-Snapshots all the files in preparation for versioning or`$ git add [file]`. This code means:
-Snapshots the file in preparation for versioning. You can choose to type in your terminal `git status` to see if your changes has been added to staging. If they have been added, you should see feedback of ```
-On branch master
-Your branch is up-to-date with 'origin/master'.
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
-
-	modified:   README.md ```
-5. In your terminal Type: ```
-git commit -m"Added description to README.md to indicate the purpose of this repository" ```
-Records file snapshots permanently in version history. Think about this as setting a milestone for your project.
-
+This means you have added all the files in preparation for versioning. You can also enter `$ git add [file]`which means add this file in preparation for versioning. You can choose to type in your terminal `git status` to see if your changes has been added to staging.
+5. In your terminal Type: `git commit -m"Added description to README.md to indicate the purpose of this repository" `
+Think about this as setting a milestone for your project.
 6. In your terminal Type `git push origin master`.
 Find a ref that matches master in the source repository, and update the same ref in origin repository with it. If master did not exist remotely, it would be created.
-
 7. Now go to your GitHub repository and refresh. You should see your new commit.
 
 
