@@ -2,10 +2,10 @@
 
 ### Make a new Git Commit and push it to remote master.
 
-- _Please refer to GitHub Tutorial 1 before making a new repository. _
+- _Please refer to GitHub Tutorial 1 before making a new repository._
 - _Please download [Atom](https://atom.io/) if you don't have it yet._
-- _Make sure you are in the directory in your local Environment that you have cloned from GitHub from tutorial 1. _
-- _ Make a change on the README.md file in your newly cloned directory by using Atom._
+- _Make sure you are in the directory in your local Environment that you have cloned from GitHub from tutorial 1._
+- _Make a change on the README.md file in your newly cloned directory by using Atom._
 
 
 1. In your terminal Type `atom README.md`
