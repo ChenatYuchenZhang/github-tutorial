@@ -9,25 +9,25 @@ _Watch the video of [what is VCS? Git Basics #1](https://www.youtube.com/watch?v
 
 1. Go to your own Github profile, click on **New** button to create a new repository.
 
-2. Enter Repository Name. I have named my first repository, github-tutorial. You will have to choose public unless you are a premium user. Always initialize this repository with a *README*. Click *Create Repository* button.
+2. Enter Repository Name. I have named my first repository `github-tutorial`. You will have to choose public unless you are a premium user. Always initialize this repository with a *README*. Click the green *Create Repository* button.
 
 3. Click *Clone or download* button then copy the URL by clicking on the *clipboard* icon.
 
 4. Open your Terminal if you have Mac.
 
-5. In your terminal Type`pwd`which means print working directory.
+5. In your terminal Type`pwd`which means print working directory. This command shows the full path for your current directory.
 
 6. In your terminal Type `ls` to see all the files in this directory.
 
-7. In your terminal Type `cd Documents`to go to your Document folder.
+7. In your terminal Type `cd ~/Documents`to go to your Document folder.
 
-8. In your terminal Type `mkdir [dir name]`to create a new directory (folder) with your own folder name for all your git hub depositories. I have named my git_projects.
+8. In your terminal Type `mkdir [dir name]`to create a new directory (folder) with your own folder name for all your github depositories. I have named my git_projects.
 
 9. In your terminal Type `cd git_projects` to go into your git_projects folder.
 
 10. In your terminal Type `git clone [paste URL]` to tell github download your newly created repository into your newly created folder git_projects.
 
-11. Voila! You have created your first repository on Github and have successfully copied it onto your lab top.
+11. Voila! You have created your first repository on Github and have successfully copied it onto your laptop.
 
 --------------------------------------------
 
