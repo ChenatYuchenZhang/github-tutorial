@@ -4,6 +4,8 @@ This is a series of simple GitHub Tutorial for my class at Parsons School of Art
 
 In this tutorial you will learn how to create a new repository and push new commits.
 
+:sparkles::sparkles::sparkles::sparkles::sparkles:
+
 --------------------------------------------
 
 Additional Resources:
