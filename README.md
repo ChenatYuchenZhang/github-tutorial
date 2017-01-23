@@ -4,6 +4,8 @@ This is a series of simple GitHub Tutorial for my class at Parsons School of Art
 
 In this tutorial you will learn how to create a new repository and push new commits.
 
+--------------------------------------------
+
 Additional Resources:
 - Terminal command [cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet).
 - Git command [cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf).

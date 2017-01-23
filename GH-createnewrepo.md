@@ -5,6 +5,7 @@
 _Before you start on this tutorial, you should start reading [Introduction to GitHub](https://services.github.com/on-demand/intro-to-github/) and sign up for an account at GitHub._
 _Watch the video of [what is VCS? Git Basics #1](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)._
 
+--------------------------------------------
 
 1. Go to your own Github profile, click on **New** button to create a new repository.
 
@@ -27,6 +28,8 @@ _Watch the video of [what is VCS? Git Basics #1](https://www.youtube.com/watch?v
 10. In your terminal Type `git clone [paste URL]` to tell github download your newly created repository into your newly created folder git_projects.
 
 11. Voila! You have created your first repository on Github and have successfully copied it onto your lab top.
+
+--------------------------------------------
 
 Additional Resources:
 

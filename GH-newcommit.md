@@ -7,6 +7,7 @@
 - _Make sure you are in the directory in your local Environment that you have cloned from GitHub from tutorial 1._
 - _Make a change on the README.md file in your newly cloned directory by using Atom._
 
+--------------------------------------------
 
 1. In your terminal Type `atom README.md`
 This opens README.md in Atom.
@@ -21,6 +22,8 @@ Think about this as setting a milestone for your project.
 Find a ref that matches master in the source repository, and update the same ref in origin repository with it. If master did not exist remotely, it would be created.
 7. Now go to your GitHub repository and refresh. You should see your new commit.
 
+
+--------------------------------------------
 
 
 After Class Read:

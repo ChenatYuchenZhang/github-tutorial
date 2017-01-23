@@ -1,5 +1,8 @@
 # Markdown Tutorial
 
+--------------------------------------------
+
+
 # Header1
 ## Header2
 ### Header 3
@@ -12,6 +15,9 @@ here is a `code sample`
 ```
 <div class="code_block"></div>
 ```
+
+--------------------------------------------
+
 
 Additional Resources:
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
