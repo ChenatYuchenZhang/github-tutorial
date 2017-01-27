@@ -15,7 +15,7 @@ This opens README.md in Atom.
 Lists all new or modified files to be commited.
 3. You should see this in your terminal `modified:   README.md` This means that Git has noticed your change on the file README.md.
 4. In your terminal Type `git add .`
-This means you have added all the files in preparation for versioning. You can also enter `$ git add [file]`which means add this file in preparation for versioning. You can choose to type in your terminal `git status` to see if your changes has been added to staging.
+This means you have added the files in the current directory in preparation for versioning. You can also enter `$ git add [file]`which means add this file in preparation for versioning. You can choose to type in your terminal `git status` to see if your changes has been added to staging.
 5. In your terminal Type: `git commit -m"Added description to README.md to indicate the purpose of this repository" `
 Think about this as setting a milestone for your project.
 6. In your terminal Type `git push origin master`.
