@@ -13,13 +13,13 @@ _Watch the video of [what is VCS? Git Basics #1](https://www.youtube.com/watch?v
 
 3. Click *Clone or download* button then copy the URL by clicking on the *clipboard* icon.
 
-4. Open your Terminal if you have Mac.
+4. Open your Terminal if you have Mac. Now we are going to create a new folder which is called "directory" in terminal. Then we are going to clone our newly formed repository on Github into our laptop.
 
 5. In your terminal Type`pwd`which means print working directory. This command shows the full path for your current directory.
 
-6. In your terminal Type `ls` to see all the files in this directory.
+6. In your terminal Type `ls` to see all the files in this directory. _This will help you see all the documents inside this directory_ 
 
-7. In your terminal Type `cd ~/Documents`to go to your Document folder.
+7. In your terminal Type `cd Documents`to go to your Document folder.
 
 8. In your terminal Type `mkdir [dir name]`to create a new directory (folder) with your own folder name for all your github depositories. I have named my git_projects.
 
