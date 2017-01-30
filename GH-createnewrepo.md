@@ -3,7 +3,7 @@
 ### Create a New Repository on Github and Clone it to Your Local Environment
 
 _Before you start on this tutorial, you should start reading [Introduction to GitHub](https://services.github.com/on-demand/intro-to-github/) and sign up for an account at GitHub._
-_Watch the video of [what is VCS? Git Basics #1](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)._
+_Watch the video of [what is CAT Git Basics #1](https://www.youtube.com/watch?v=8oRjP8yj2Wo&list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH)._
 
 --------------------------------------------
 
@@ -17,7 +17,7 @@ _Watch the video of [what is VCS? Git Basics #1](https://www.youtube.com/watch?v
 
 5. In your terminal Type`pwd`which means print working directory. This command shows the full path for your current directory.
 
-6. In your terminal Type `ls` to see all the files in this directory. _This will help you see all the documents inside this directory_ 
+6. In your terminal Type `ls` to see all the files in this directory. _This will help you see all the documents inside this directory_
 
 7. In your terminal Type `cd Documents`to go to your Document folder.
 
