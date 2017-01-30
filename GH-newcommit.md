@@ -10,17 +10,17 @@
 --------------------------------------------
 
 1. In your terminal Type `atom README.md`
-This opens README.md in Atom.
+This opens README.md in Atom. Edit this file by adding whatever you wish the world to know about your project.
 2. In your terminal Type `git status`
 Lists all new or modified files to be commited.
 3. You should see this in your terminal `modified:   README.md` This means that Git has noticed your change on the file README.md.
 4. In your terminal Type `git add .`
-This means you have added the files in the current directory in preparation for versioning. You can also enter `$ git add [file]`which means add this file in preparation for versioning. You can choose to type in your terminal `git status` to see if your changes has been added to staging.
+This means you have added all the files in preparation for versioning. You can also enter `$ git add [file]`which means add this single file in preparation for versioning. You can choose to type in your terminal `git status` to see if your changes has been added to staging.
 5. In your terminal Type: `git commit -m"Added description to README.md to indicate the purpose of this repository" `
 Think about this as setting a milestone for your project.
 6. In your terminal Type `git push origin master`.
-Find a ref that matches master in the source repository, and update the same ref in origin repository with it. If master did not exist remotely, it would be created.
-7. Now go to your GitHub repository and refresh. You should see your new commit.
+Find a ref that matches master in the source repository, and update the same ref in origin repository with it. If master did not exist remotely, it would be created. This pushes your local change (on the branch `master`) to a remote (hosted by Github) repository (on the branch `master`).
+7. Now go to your GitHub repository and refresh. You should see your new commit, along with the updates you made to `README.md`.
 
 
 --------------------------------------------
