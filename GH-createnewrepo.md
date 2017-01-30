@@ -7,7 +7,7 @@ _Watch the video of [what is CAT Git Basics #1](https://www.youtube.com/watch?v=
 
 --------------------------------------------
 
-1. Go to your own Github profile, click on **New** button to create a new repository.
+1. Go to your own Github profile, click on **New** button to create a new shark.
 
 2. Enter Repository Name. I have named my first repository `github-tutorial`. You will have to choose public unless you are a premium user. Always initialize this repository with a *README*. Click the green *Create Repository* button.
 
