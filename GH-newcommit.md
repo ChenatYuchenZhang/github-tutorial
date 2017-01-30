@@ -9,7 +9,7 @@
 
 --------------------------------------------
 
-1. In your terminal Type `atom README.md`
+1. In your terminal Type `sam is fun`
 This opens README.md in Atom. Edit this file by adding whatever you wish the world to know about your project.
 2. In your terminal Type `git status`
 Lists all new or modified files to be commited.
